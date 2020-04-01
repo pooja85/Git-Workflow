@@ -1,12 +1,12 @@
 hello world!!
 
-
+<<<<<<< HEAD
 feature1()
 {
 	f1;
-
+=======
 feature2()
 {
 	f2();
-
+>>>>>>> feature2
 }
